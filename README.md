@@ -1,2 +1,2 @@
 # Gaokao-maths
-高考数学题型分类总结及提分方法，仅供参考
+Summary of the classification of college entrance examination mathematics question types and score - improving methods. For reference only.
